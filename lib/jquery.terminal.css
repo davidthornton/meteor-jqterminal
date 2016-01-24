@@ -1,8 +1,3 @@
-/*
- *  TODO: create a sane default theme
- *
- */
-    
 .terminal .terminal-output .format, .terminal .cmd .format,
 .terminal .cmd .prompt, .terminal .cmd .prompt div, .terminal .terminal-output div div{
     display: inline-block;
@@ -94,8 +89,6 @@
 .terminal a:hover {
     color: red;
 }
-
-/* OSX terminal cursor */
 .cmd .cursor {
     background-color: #999;
     color: #000;
